@@ -1,8 +1,6 @@
 print("*"*100)
-print("\t***ARASAN MODEL SCHOOL***")
-print("\t***SUBJECT - COMPUTER SCIENCE - 083***")
 print("\t***WELCOME TO SALES MANAGEMENT SYSTEM***")
-print("\t***DEVELOPED BY ATHISH , GOWTHAM & VISHAK***")
+print("\t***DEVELOPED BY VISHAK***")
 print("*"*100)
 import mysql.connector as sql
 import datetime
